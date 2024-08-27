@@ -24,7 +24,7 @@
             headers: {
                 accept: 'application/json',
                 'content-type':'application/json',
-                Authorization: 'sk_YFOipwxTqzkoKceP'
+                Authorization: ''
             },
             body: JSON.stringify({originalURL: url, domain:'fqn9.short.gy' })
         };
